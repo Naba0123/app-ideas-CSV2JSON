@@ -1,0 +1,20 @@
+/* base css */
+html, body {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  padding: 20px;
+}
+
+#main-content {
+  box-shadow: 2px 2px 4px gray;
+  border: 1px solid lightgray;
+  padding: 10px;
+}
+hr {
+  margin: 2em 0;
+}
+h1 {
+  border-left: 20px rgb(142, 214, 255) solid;
+  padding-left: 10px;
+}
